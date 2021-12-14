@@ -1,0 +1,13 @@
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.csprojAssemblyReference.cache
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.AssemblyInfoInputs.cache
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.AssemblyInfo.cs
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.csproj.CoreCompileInputs.cache
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.exe
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.deps.json
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.runtimeconfig.json
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.runtimeconfig.dev.json
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.dll
+E:\OOP\LV\LV2\Zadatak_2\bin\Debug\netcoreapp3.1\Zadatak_2.pdb
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.dll
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.pdb
+E:\OOP\LV\LV2\Zadatak_2\obj\Debug\netcoreapp3.1\Zadatak_2.genruntimeconfig.cache
