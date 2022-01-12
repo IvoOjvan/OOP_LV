@@ -1,0 +1,13 @@
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.exe
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.deps.json
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.runtimeconfig.json
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.runtimeconfig.dev.json
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.dll
+E:\OOP\LV\LV6\Zadatak_3\bin\Debug\netcoreapp3.1\Zadatak_3.pdb
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.csprojAssemblyReference.cache
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.AssemblyInfoInputs.cache
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.AssemblyInfo.cs
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.csproj.CoreCompileInputs.cache
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.dll
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.pdb
+E:\OOP\LV\LV6\Zadatak_3\obj\Debug\netcoreapp3.1\Zadatak_3.genruntimeconfig.cache
