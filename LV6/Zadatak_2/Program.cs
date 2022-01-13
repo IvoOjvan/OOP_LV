@@ -24,8 +24,8 @@ namespace Zadatak_2
 
             Console.WriteLine(string.Join(", ", testList));
 
-            Func<int, bool> fun1 = new Func<int, bool>(it => it % 3 == 0 && it != 0);
-            Func<int, bool> fun2 = new Func<int, bool>(it => it > -5 && it < 5);
+            Func<int, bool> fun1 = it => it % 3 == 0 && it != 0;
+            Func<int, bool> fun2 = it => it > -5 && it < 5;
 
             Console.WriteLine(string.Join(", ", Utilities.Filter(testList, fun1)));
             Console.WriteLine(string.Join(", ", Utilities.Filter(testList, fun2)));
