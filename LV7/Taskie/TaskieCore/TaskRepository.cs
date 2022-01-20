@@ -45,9 +45,9 @@ namespace TaskieCore
         public IEnumerable<ToDoTask> GetTasks()
         {
             List<ToDoTask> copyTasks = new List<ToDoTask>();
-            foreach (ToDoTask task in tasks) 
+            foreach (DeadlineTask task in tasks) 
             {
-                copyTasks.Add(new ToDoTask(task.Description, task.PriorityLevel));
+                copyTasks.Add(new DeadlineTask(task.Description, task.PriorityLevel, task.Deadline));
             }
             return copyTasks;
         }

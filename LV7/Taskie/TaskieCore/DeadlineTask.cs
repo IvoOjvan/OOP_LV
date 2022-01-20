@@ -36,7 +36,7 @@ namespace TaskieCore
 
         public override string ToString()
         {
-            return $"{base.ToString()}\nDeadline: {Deadline}";
+            return $"{base.ToString()}\nDeadline: {Deadline.ToShortDateString()}";
         }
     }
 }
