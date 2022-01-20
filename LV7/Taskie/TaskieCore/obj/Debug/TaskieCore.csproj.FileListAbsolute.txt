@@ -1,0 +1,6 @@
+E:\OOP\LV\LV7\Taskie\TaskieCore\bin\Debug\TaskieCore.dll
+E:\OOP\LV\LV7\Taskie\TaskieCore\bin\Debug\TaskieCore.pdb
+E:\OOP\LV\LV7\Taskie\TaskieCore\obj\Debug\TaskieCore.csprojAssemblyReference.cache
+E:\OOP\LV\LV7\Taskie\TaskieCore\obj\Debug\TaskieCore.csproj.CoreCompileInputs.cache
+E:\OOP\LV\LV7\Taskie\TaskieCore\obj\Debug\TaskieCore.dll
+E:\OOP\LV\LV7\Taskie\TaskieCore\obj\Debug\TaskieCore.pdb
